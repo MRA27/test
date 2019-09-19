@@ -19,4 +19,4 @@ def jalan(z):
         time.sleep(0.2)
 
 
-os.system('cd $HOME')
+os.system('cd ..')
